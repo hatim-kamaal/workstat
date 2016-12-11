@@ -1,0 +1,2 @@
+1. it should collect the raw data
+2. it should show analysis
